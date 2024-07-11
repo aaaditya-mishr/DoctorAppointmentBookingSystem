@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DoctorAppointmentBookingSystemAPI.props" />
+</Project>
